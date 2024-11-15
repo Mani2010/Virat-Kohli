@@ -1,0 +1,12 @@
+html {
+    background-color: darkslateblue;
+    scroll-behavior: smooth;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+
+iframe {
+    border-style: solid;
+
+}
